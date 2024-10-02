@@ -15,7 +15,7 @@
   <img align="center" alt="DG-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="DG-Oracle" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img align="center" alt="DG-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="DG-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/619506435717332993/894713153189994496/salomao.png?ex=663219ce&is=6630c84e&hm=6c585e2489fda7f8f918193b12628b313b0c8f3e64db936109a38628f12f1e53&"
+  <img align="right" alt="DG-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/619506435717332993/894713153189994496/salomao.png?ex=66fdc98e&is=66fc780e&hm=e27dcde1200515b344605e5e515991a78c6daf65d059049f494eaa64d5c0ee02&"
 </div>
   
 ##
